@@ -50,7 +50,7 @@
 
 ## Important Note
 
-**If you want to store your project on a public github repo, keep your API key in a file included in `.gitignore` or use the [dotenv][dotenv-link] package ([Helpful Youtube tutorial](https://youtu.be/CJjSOzb0IYs))**
+**If you want to store your project on a public github repo, keep your API key in a file included in your `.gitignore` file and use `import` statement, or use the [dotenv][dotenv-link] package if your project gets more complex ([Helpful Youtube tutorial](https://youtu.be/CJjSOzb0IYs))**
 
 ## Plans For Repo
 
