@@ -1,10 +1,12 @@
 <a name="readme-top"></a>
 
-
+<div align="center">
+    
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Gmail][gmail-shield]][gmail-url]
 [![Twitter][twitter-shield]][twitter-url]
 <!-- [![Github][github-shield]][github-url] -->
+</div>
 
 <br/>
 
