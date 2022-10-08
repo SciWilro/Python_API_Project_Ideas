@@ -22,7 +22,10 @@
 <!-- TABLE OF CONTENTS -->
 <details>
     <summary>Table of Contents</summary>
-    <ul><li><a href="#important-note">Important Note</a></li></ul>
+    <ul>
+        <li><a href="#important-note">Important Note</a></li>
+        <li><a href="#plans-for-repo">Plans For Repo</a></li>    
+    </ul>
     <ol>
         <li>
             <a href="#wordsapi">WordsAPI</a>
@@ -46,6 +49,12 @@
 ## Important Note
 
 **If you want to store your project on a public github repo, keep your API key in a file included in `.gitignore` or use the [dotenv][dotenv-link] package ([Helpful Youtube tutorial](https://youtu.be/CJjSOzb0IYs))**
+
+---
+
+## Plans For Repo
+
+The idea behind the project is to compile a list of sources for API related Python projects, and have beginner-friendly code examples for each to get other people started. These examples should not be overwhelming and thus only cover the basics, and include lots of comments to explain what's being done and why. Expect lots of links back to the documentation.  
 
 ---
 
@@ -130,7 +139,8 @@ Name: Twitter API
 Description: Access to tweets and metadata (25000 tweets / month)  
 [Link](https://developer.twitter.com/en)  
 
-<!-- Name: 
+<!-- Template for additional sources
+Name: 
 Description: 
 [Link](https://) -->
 
@@ -153,9 +163,11 @@ Description:
 [alpaca-market-api-link]: https://alpaca.markets/docs/market-data/
 [alpaca-crypto-api-link]: https://alpaca.markets/docs/crypto/
 
+<!-- Python Packages Links -->
 [alpaca-py-link]: https://pypi.org/project/alpaca-py/
 [dotenv-link]: https://pypi.org/project/python-dotenv/
 
+<!-- Information Based Links -->
 [rest-link]: https://restfulapi.net/
 [websocket-link]: https://en.wikipedia.org/wiki/WebSocket
 [json-link]: http://www.json.org/
@@ -163,4 +175,4 @@ Description:
 
 
 <!-- Sources for making README -->
-<!-- see https://github.com/othneildrew/Best-README-Template-->
+<!-- see https://github.com/othneildrew/Best-README-Template -->
