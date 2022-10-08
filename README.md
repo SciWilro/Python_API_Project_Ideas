@@ -2,9 +2,9 @@
 
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[![Github][github-shield]][github-url]
 [![Gmail][gmail-shield]][gmail-url]
 [![Twitter][twitter-shield]][twitter-url]
+<!-- [![Github][github-shield]][github-url] -->
 
 <br/>
 
@@ -49,8 +49,6 @@
 ## Important Note
 
 **If you want to store your project on a public github repo, keep your API key in a file included in `.gitignore` or use the [dotenv][dotenv-link] package ([Helpful Youtube tutorial](https://youtu.be/CJjSOzb0IYs))**
-
----
 
 ## Plans For Repo
 
@@ -119,7 +117,7 @@ For more information see the [API Reference Docs](https://alpaca.markets/docs/ap
 <!-- **Output**: [JSON][json-link] -->
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+---
 
 ## Possible Additions
 
@@ -144,14 +142,21 @@ Name:
 Description: 
 [Link](https://) -->
 
+---
+
+## Attribution
+
+<a href="https://www.flaticon.com/free-icon/api_8099218" title="api icon on Flaticon.com">Project icon created by Muhammad Ali - Flaticon</a>
+
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 <!-- Badges: https://dev.to/envoy_/150-badges-for-github-pnk -->
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://linkedin.com/in/sciwilro
-[github-shield]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-[github-url]: https://github.com/SciWilro
+<!-- [github-shield]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+[github-url]: https://github.com/SciWilro -->
 [gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [gmail-url]: mailto:mr.wilro@gmail.com
 [twitter-shield]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
