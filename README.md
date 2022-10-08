@@ -123,6 +123,7 @@ For more information see the [API Reference Docs](https://alpaca.markets/docs/ap
 
 ## Possible Additions
 
+
 Name: Deepgram Python API and SDK  
 Description: Deepgram's automated speech recognition APIs. Pre-Recorded or Live  
 [Link](https://github.com/deepgram/deepgram-python-sdk)  
