@@ -114,21 +114,21 @@ For more information see the [API Reference Docs](https://alpaca.markets/docs/ap
 
 ## Possible Additions
 
-Name: Deepgram Python API and SDK
-Description: Deepgram's automated speech recognition APIs. Pre-Recorded or Live
-[Link](https://github.com/deepgram/deepgram-python-sdk)
+Name: Deepgram Python API and SDK  
+Description: Deepgram's automated speech recognition APIs. Pre-Recorded or Live  
+[Link](https://github.com/deepgram/deepgram-python-sdk)  
 
-Name: Quickchart
-Description: API for generating charts / QR codes / PDFs
-[Link](https://quickchart.io)
+Name: Quickchart  
+Description: API for generating charts / QR codes / PDFs  
+[Link](https://quickchart.io)  
 
-Name: Google Maps API
-Description: Access to different Google Map features 
-[Link](https://developers.google.com/maps)
+Name: Google Maps API  
+Description: Access to different Google Map features   
+[Link](https://developers.google.com/maps)  
 
-Name: Twitter API
-Description: Access to tweets and metadata (25000 tweets / month)
-[Link](https://developer.twitter.com/en)
+Name: Twitter API  
+Description: Access to tweets and metadata (25000 tweets / month)  
+[Link](https://developer.twitter.com/en)  
 
 <!-- Name: 
 Description: 
