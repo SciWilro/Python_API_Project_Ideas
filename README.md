@@ -6,7 +6,7 @@
 <br/>
 
 <div align="center">
-    <a href="https://github.com/sciwilro/">
+    <a href="https://github.com/sciwilro/Python_API_Project_Ideas">
         <img src="images/logo.png" alt="Logo" width="80" height="80">
     </a>
 
@@ -27,8 +27,12 @@
         </li>
         <li>
             <a href="#i❤pdf-api">I❤PDF API</a>
-            <ul><li></li></ul>
+            <ul><li>Multiple tools for working with PDFs</li></ul>
         </li>
+        <li>
+            <a href="#market-data-api">Alpaca Market Data API</a>
+            <ul><li>Access Historical/realtime Stock, EFT, and Crypto information</li></ul>
+        </li>        
     </ol>
 </details>
 
