@@ -105,7 +105,12 @@ Alpaca also provides a PyPI package [alpaca-py][alpaca-py-link]
 Also has the WebSocket protocol available for real time updates without pulling the server.  
 For more information see the [API Reference Docs](https://alpaca.markets/docs/api-references/)
 
-
+<!-- 
+TODO: Add Deepgram Python SDK and API info
+Description: Deepgram's automated speech recognition APIs.
+See: https://github.com/deepgram/deepgram-python-sdk
+Pre-Recorded or Live
+ -->
 
 
 **Request Limit**: 200/calls min  
