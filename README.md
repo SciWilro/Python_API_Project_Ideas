@@ -105,19 +105,34 @@ Alpaca also provides a PyPI package [alpaca-py][alpaca-py-link]
 Also has the WebSocket protocol available for real time updates without pulling the server.  
 For more information see the [API Reference Docs](https://alpaca.markets/docs/api-references/)
 
-<!-- 
-TODO: Add Deepgram Python SDK and API info
-Description: Deepgram's automated speech recognition APIs.
-See: https://github.com/deepgram/deepgram-python-sdk
-Pre-Recorded or Live
- -->
-
-
 **Request Limit**: 200/calls min  
 **Standard**: [REST][rest-link] & [WebSocket][websocket-link]  
 <!-- **Output**: [JSON][json-link] -->
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+
+## Possible Additions
+
+Name: Deepgram Python API and SDK
+Description: Deepgram's automated speech recognition APIs. Pre-Recorded or Live
+[Link](https://github.com/deepgram/deepgram-python-sdk)
+
+Name: Quickchart
+Description: API for generating charts / QR codes / PDFs
+[Link](https://quickchart.io)
+
+Name: Google Maps API
+Description: Access to different Google Map features 
+[Link](https://developers.google.com/maps)
+
+Name: Twitter API
+Description: Access to tweets and metadata (25000 tweets / month)
+[Link](https://developer.twitter.com/en)
+
+<!-- Name: 
+Description: 
+[Link](https://) -->
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
