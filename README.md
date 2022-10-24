@@ -17,7 +17,7 @@
 
 <h3 align="center">Python API Project Ideas</h3>
 
-<p align="center">A collection of useful APIs available for free</p>
+<p align="center">A collection of useful <abbr title="An Application Programming Interface (API) is a set of commands, functions, protocols, and objects that programmers can use to create software or interact with an external system.">APIs</abbr> available for free*</p>
 
 </div>
 
@@ -170,6 +170,8 @@ Description:
 [I❤PDF-api-link]: https://developer.ilovepdf.com/
 [alpaca-market-api-link]: https://alpaca.markets/docs/market-data/
 [alpaca-crypto-api-link]: https://alpaca.markets/docs/crypto/
+
+
 
 <!-- Python Packages Links -->
 [alpaca-py-link]: https://pypi.org/project/alpaca-py/
